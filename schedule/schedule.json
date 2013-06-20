@@ -668,10 +668,5 @@
     "name": "Late Afternoon",
     "start": 1381690800,
     "end": 1381701600
-  },
-  {
-    "name": "",
-    "start": false,
-    "end": false
   }
 ]
