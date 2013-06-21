@@ -1,8 +1,7 @@
 <?php
 
-function nextAnneAndGilbert() {
+function nextAnneAndGilbert($schedule) {
 	date_default_timezone_set("America/Halifax");
-	$schedule = file_get_contents("schedule.json");
 	$performances = json_decode($schedule);
 	$rightnow = mktime();
 
