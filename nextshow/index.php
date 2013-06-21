@@ -1,5 +1,5 @@
 <?php
-include_once("../schedule/index.php");
+include_once("../schedule/nextanneandgilbert.php");
 $next = nextAnneAndGilbert();
 ?>
 <head>
